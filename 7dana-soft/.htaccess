@@ -1,0 +1,2 @@
+# Protect theme folder and files from prying eyes:
+IndexIgnore *.html *.jpg *.gif *.css *.png *.psd *.js
